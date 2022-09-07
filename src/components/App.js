@@ -1,5 +1,8 @@
 import React from "react";
+import PokemonCard from "./PokemonCard";
+import PokemonCollection from "./PokemonCollection";
 import PokemonPage from "./PokemonPage";
+
 
 function App() {
   return (
